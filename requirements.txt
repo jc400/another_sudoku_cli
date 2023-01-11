@@ -1,0 +1,2 @@
+another-sudoku-library==0.1.0
+click==8.1.3
